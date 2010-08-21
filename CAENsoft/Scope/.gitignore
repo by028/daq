@@ -1,9 +1,0 @@
-src/*.o
-*~
-Makefile
-config.log
-config.status
-src/.deps/
-src/CAENScope
-src/Makefile
-
